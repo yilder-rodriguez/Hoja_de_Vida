@@ -239,9 +239,6 @@ if (titulo) {
 // MODO OSCURO
 // ==========================
 
-const darkBtn = document.createElement("button");
-
-darkBtn.innerHTML = '<i class="fa-solid fa-moon"></i>';
 
 darkBtn.style.position = "fixed";
 darkBtn.style.bottom = "95px";
